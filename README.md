@@ -9,13 +9,15 @@ My name is Weriston Carlos, and my nickname is Ton!
 
 ## 🔧 Technologies and Tools
 
-- ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
-- ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg)
-- ![Yii](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original-wordmark.svg)
-- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-- ![Amazon Web Services](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-- ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
-- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="50px" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original-wordmark.svg" width="50px" alt="Yii" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" alt="Git" />
+</div>
 
 ## 📫 Contact
 
