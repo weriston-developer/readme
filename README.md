@@ -7,9 +7,9 @@ My name is Weriston Carlos, and my nickname is Ton!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weriston-gif&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
-## 🔧 Technologies and Tools
+## 🔧 Technologies, Tools and others...
 
-<div align="center">
+<div style="display: flex; justify-content: space-between;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="50" height="50" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original-wordmark.svg" width="50" height="50" alt="Yii" />
@@ -18,6 +18,7 @@ My name is Weriston Carlos, and my nickname is Ton!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
 </div>
+
 ## 📫 Contact
 
 You can reach me via email or LinkedIn:
